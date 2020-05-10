@@ -1,0 +1,5 @@
+*.ipynb
+!covid_tweets.ipynb
+!submissions/updated_ss.csv
+submissions/*
+
